@@ -1,0 +1,116 @@
+.papa{
+	position: absolute;
+	top: 50px;
+	left: 250px;
+	height: 800px;
+	width: 1000px;
+	background: green;
+	border-radius: 10px;
+	border:solid 5px blue;
+
+}
+.Ana{
+	position: absolute;
+	top: 20px;
+	left: 350px;
+	height: 20px;
+	width: 300px;
+	background: green;
+	border-radius: 10px;
+	border:solid 5px blue;
+	text-align: center;
+
+}
+.ana2{
+	position: absolute;
+	top: 50px;
+	left: 10px;
+	height: 300px;
+	width: 350px;
+	background: green;
+	border-radius: 10px;
+	border:solid 5px blue;
+	text-align: center;
+}
+.titulo1{ 
+	position: absolute;
+	top: 20px;
+	left: 70px;
+	height: 30px;
+	width: 250px;
+	background: yellow;
+	border-radius: 10px;
+	border:solid 5px blue;
+	text-align: center;
+}
+.titulo2{ 
+	position: absolute;
+	top: 60px;
+	left: 20px;
+	height: 120px;
+	width: 300px;
+	background: yellow;
+	border-radius: 10px;
+	border:solid 5px blue;
+	text-align: center;
+
+ }
+ .foto1{
+ position: absolute;
+    top: 190px;
+    left: 20px;
+    height: 95px;
+    width: 300px;
+    background: yellow;
+    border-radius: 10px;
+    border:solid 5px blue;
+    text-align: center;
+    background:url(doga.jpg);
+ }
+.ana3{
+	position: absolute;
+	top: 100px;
+	left: 450px;
+	height: 600px;
+	width: 500px;
+	background: green;
+	border-radius: 10px;
+	border:solid 5px blue;
+	text-align: center;
+}
+.titulo3{ 
+	position: absolute;
+	top: 140px;
+	left: 500px;
+	height: 150px;
+	width: 400px;
+	background: yellow;
+	border-radius: 10px;
+	border:solid 5px blue;
+	text-align: center;
+
+ }
+ .foto2{
+ position: absolute;
+    top: 350px;
+    left: 550px;
+    height: 95px;
+    width: 300px;
+    background: yellow;
+    border-radius: 10px;
+    border:solid 5px blue;
+    text-align: center;
+    background:url(anime1.jpg);
+ }
+ .foto3{
+ position: absolute;
+    top: 500px;
+    left: 550px;
+    height: 95px;
+    width: 300px;
+    background: yellow;
+    border-radius: 10px;
+    border:solid 5px blue;
+    text-align: center;
+    background:url(anime2.jpg);
+ }
